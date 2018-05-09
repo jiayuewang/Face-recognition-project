@@ -1,0 +1,1 @@
+This file saves teachers' photo for face recognition.
