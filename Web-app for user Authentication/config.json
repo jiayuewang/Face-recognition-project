@@ -1,0 +1,23 @@
+{
+  "AWS_ACCOUNT_ID": "123412341234",
+  "CLI_PROFILE": "default",
+  "REGION": "US-west-1",
+  "BUCKET": "checker-bucket",
+
+  "DDB_TABLE": "CheckerPatients",
+
+  "USER_FACE_COLLECTION_ID": "checker-users",
+  "PATIENT_FACE_COLLECTION_ID": "checker-patients",
+
+  "FROM_ADDRESS": "user@example.com",
+
+  "USER_POOL_NAME": "CheckerUserPool",
+  "ID_POOL_NAME": "CheckerIdentityPool",
+  "POLICY_NAME": "CheckerPolicy",
+  "ROLE_NAME": "CheckerRole",
+
+  "UP_DEF_AUTH_LAMBDA_NAME": "CheckerDefineAuthChallenge",
+  "UP_CRE_AUTH_LAMBDA_NAME": "CheckerCreateAuthChallenge",
+  "UP_VER_AUTH_LAMBDA_NAME": "CheckerVerifyAuthChallenge",
+  "PATIENT_FACE_INDEXER_LAMBDA_NAME": "CheckerPatientFaceIndexer"
+}
