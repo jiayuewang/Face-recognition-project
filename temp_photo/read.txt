@@ -1,1 +1,0 @@
-This file saves temperature photo for roll calling.
